@@ -1,0 +1,5 @@
+AppName,AppPath,Status
+HBM_Duplicate_Frame,C:\MTApps\IS_Backend\HBM_Duplicate_Frame\HBM_Duplicate_Frame\bin\Debug\HBM_Duplicate_Frame.exe,Ready
+ServiceCount,C':\MTApps\IS_Backend\ServiceCount\ServiceCount.ps1,Ready
+OneDrive Standalone Update Task-S-1-5-21-20920562-2040232336-316619961-46671271,%localappdata%\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe,Ready
+Test1,C:\Users\lichiasin\Documents\CTSOS_v22249.2_SOE.xlsx,Ready
